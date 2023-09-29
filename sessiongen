@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Akki - UserBot
+
+bash resources/session/session.sh
