@@ -53,7 +53,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 `. ./venv/bin/activate`
 - Install the requirements:      
 `pip(3) install -U -r re*/st*/optional-requirements.txt`
-`pip(3) install -U -r requirements.txt`
+`pip(3) install -r requirements.txt`
 - Generate your `SESSION`:
   - For Linux users:
     `bash sessiongen`
